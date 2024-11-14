@@ -1,47 +1,57 @@
-#grocery1{
-  width: 400px;
+#pantry2 {
+  display: inline;
+}
+#freezer2 {
+  display: inline;
+}
+#grocery1 {
+  width: 800px;
   height: 875px;
   border: 5px solid grey;
-  padding: 10px;
+  padding: 8px;
   margin: auto;
   background-color: lightgrey;
-  }
-h1{ width: 200px;
+}
+h1 {
+  width: 200px;
   height: 45px;
   border: 5px dashed orangered;
-  padding: 1px;
+  padding: 3px;
   margin: auto;
   font-style: italic;
-text-align: center;}
+  text-align: center;
+}
 
-#pantry1{
+#pantry1 {
   width: 320px;
   height: 320px;
   border: 10px solid black;
   padding: 25px;
   margin: auto;
   background-color: antiquewhite;
-  }
-#tomato{
+}
+#tomato {
   display: inline-block;
   position: relative;
   margin: auto;
   float: right;
   max-width: 300px;
-  }
-  #freezer1{
+}
+#freezer1 {
   width: 320px;
   height: 320px;
   border: 10px solid black;
   padding: 25px;
   margin: auto;
   background-color: aquamarine;
-  }
-  #icecream{
-    display: inline-block;
-    position: relative;
-    margin: auto;
-    float: right;
-    max-width: 300px;
-    }
-  h3{text-decoration: underline;}
+}
+#icecream {
+  display: inline-block;
+  position: relative;
+  margin: auto;
+  float: right;
+  max-width: 300px;
+}
+h3 {
+  text-decoration: underline;
+}
